@@ -31,5 +31,5 @@ git clone https://github.com/HenzoAlmeida/Wide-Coverage/
 
 ---
 
-Link for the website:
+## Link for the website:
 https://henzoalmeida.github.io/Wide-Coverage/
