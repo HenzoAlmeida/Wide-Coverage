@@ -28,3 +28,8 @@ The website is a **responsive landing page** that simulates a fictional company 
 1. Clone the repository:
 ```bash
 git clone https://github.com/HenzoAlmeida/Wide-Coverage/
+
+---
+
+Link for the website:
+https://henzoalmeida.github.io/Wide-Coverage/
