@@ -9,7 +9,7 @@ O site é uma **landing page responsiva** que simula uma empresa fictícia chama
 ## 🖼️ Mockup do Projeto
 
 ### 🧩 Ambos (Comparativo)
-<img src="https://github.com/HenzoAlmeida/Wide-Coverage/blob/main/img/WIDE-COVERAGE-AMBOS-MOCKUP.png?raw=true" alt="Mockup Ambos" width="600"/>
+<img src="https://github.com/HenzoAlmeida/Wide-Coverage/blob/main/img/WIDE-COVERAGE-AMBOS-MOCKUP.png?raw=true" alt="Mockup Ambos" width="100%"/>
 
 > As imagens demonstram como a página se adapta a diferentes tamanhos de tela (mobile e desktop).
 
